@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VSA-kotlin</string>
+    <string name="userIDTxt">\@userid</string>
+</resources>

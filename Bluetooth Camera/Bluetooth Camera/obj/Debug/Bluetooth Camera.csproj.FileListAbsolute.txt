@@ -1,0 +1,7 @@
+C:\Users\RAINBOW\Documents\SharpDevelop Projects\Bluetooth Camera\Bluetooth Camera\obj\Debug\Bluetooth Camera.csprojResolveAssemblyReference.cache
+C:\Users\RAINBOW\Documents\SharpDevelop Projects\Bluetooth Camera\Bluetooth Camera\bin\Debug\Bluetooth Camera.exe
+C:\Users\RAINBOW\Documents\SharpDevelop Projects\Bluetooth Camera\Bluetooth Camera\bin\Debug\Bluetooth Camera.pdb
+C:\Users\RAINBOW\Documents\SharpDevelop Projects\Bluetooth Camera\Bluetooth Camera\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\RAINBOW\Documents\SharpDevelop Projects\Bluetooth Camera\Bluetooth Camera\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\RAINBOW\Documents\SharpDevelop Projects\Bluetooth Camera\Bluetooth Camera\obj\Debug\Bluetooth Camera.exe
+C:\Users\RAINBOW\Documents\SharpDevelop Projects\Bluetooth Camera\Bluetooth Camera\obj\Debug\Bluetooth Camera.pdb

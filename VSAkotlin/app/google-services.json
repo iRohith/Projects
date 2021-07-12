@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857627582071",
+    "firebase_url": "https://visualshare-5e44c.firebaseio.com",
+    "project_id": "visualshare-5e44c",
+    "storage_bucket": "visualshare-5e44c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857627582071:android:8b6652f567fed33a62f072",
+        "android_client_info": {
+          "package_name": "com.rohith.vsa_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857627582071-33v9i4d0vp2ogtq3u18cfbu3osdfbu5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2eBh3CcYv3_igP2O34LPbGQzFQhg5Zn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857627582071-33v9i4d0vp2ogtq3u18cfbu3osdfbu5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

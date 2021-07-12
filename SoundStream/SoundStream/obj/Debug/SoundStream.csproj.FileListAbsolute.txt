@@ -1,0 +1,16 @@
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\obj\Debug\SoundStream.csprojResolveAssemblyReference.cache
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\SoundStream.exe.config
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\SoundStream.exe
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\SoundStream.pdb
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\NAudio.dll
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\obj\Debug\SoundStream.exe
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\obj\Debug\SoundStream.pdb
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\libmp3lame.32.dll
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\libmp3lame.64.dll
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\NAudio.Lame.dll
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\NAudio.xml
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\SWYH.exe
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\UPNPAV_RendererStack.dll
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\UPNPAVCDSML.dll
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\UPnP.dll
+C:\Users\ROHITH\Documents\SharpDevelop Projects\SoundStream\SoundStream\bin\Debug\UPNP_AV.dll

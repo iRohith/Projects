@@ -1,0 +1,10 @@
+C:\Users\ROHITH\Documents\SharpDevelop Projects\Sound\Sound\obj\Debug\Sound.csprojResolveAssemblyReference.cache
+C:\Users\ROHITH\Documents\SharpDevelop Projects\Sound\Sound\bin\Debug\Sound.apk
+C:\Users\ROHITH\Documents\SharpDevelop Projects\Sound\Sound\bin\Debug\Sound.d42map
+C:\Users\ROHITH\Documents\SharpDevelop Projects\Sound\Sound\obj\Debug\Sound.dll
+C:\Users\ROHITH\Documents\SharpDevelop Projects\Sound\Sound\obj\Debug\Sound.pdb
+F:\2018 CBackup\My Documents\SharpDevelop Projects\Sound\Sound\bin\Debug\Sound.apk
+F:\2018 CBackup\My Documents\SharpDevelop Projects\Sound\Sound\bin\Debug\Sound.d42map
+F:\2018 CBackup\My Documents\SharpDevelop Projects\Sound\Sound\obj\Debug\Sound.csprojResolveAssemblyReference.cache
+F:\2018 CBackup\My Documents\SharpDevelop Projects\Sound\Sound\obj\Debug\Sound.dll
+F:\2018 CBackup\My Documents\SharpDevelop Projects\Sound\Sound\obj\Debug\Sound.pdb

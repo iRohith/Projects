@@ -1,0 +1,4 @@
+C:\Users\ROHITH\Documents\Projects\Screen Cast\Screen Cast\bin\Release\Screen Cast.exe.config
+C:\Users\ROHITH\Documents\Projects\Screen Cast\Screen Cast\bin\Release\Screen Cast.exe
+C:\Users\ROHITH\Documents\Projects\Screen Cast\Screen Cast\obj\Release\Screen Cast.csprojResolveAssemblyReference.cache
+C:\Users\ROHITH\Documents\Projects\Screen Cast\Screen Cast\obj\Release\Screen Cast.exe

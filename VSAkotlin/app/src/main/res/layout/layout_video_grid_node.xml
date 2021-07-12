@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/video_grid_node"
+    android:layout_width="120dp"
+    android:layout_height="200dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#000000"
+        android:contentDescription="Video preview"
+        android:scaleType="centerCrop"
+        tools:ignore="HardcodedText" />
+
+
+    <TextView
+        android:id="@+id/views"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="start|top"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="10dp"
+        android:drawableStart="@drawable/ic_eye_tiny"
+        android:drawablePadding="3dp"
+        android:text="0"
+        android:textColor="#D1D1D1"
+        android:textSize="12sp"
+        tools:ignore="HardcodedText"
+        android:layout_marginStart="6dp"
+        android:drawableLeft="@drawable/ic_eye_tiny" />
+
+    <TextView
+        android:id="@+id/likes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|end"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginRight="5dp"
+        android:drawableStart="@drawable/ic_heart_tiny"
+        android:drawableLeft="@drawable/ic_heart_tiny"
+        android:drawablePadding="3dp"
+        android:text="0"
+        android:textColor="#D1D1D1"
+        android:textSize="12sp"
+        tools:ignore="HardcodedText" />
+
+</FrameLayout>

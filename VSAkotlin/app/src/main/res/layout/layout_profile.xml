@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#2E2E2E">
+
+    <ImageView
+        android:id="@+id/profileBackImageView"
+        android:layout_width="0dp"
+        android:layout_height="200dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_blank_background"
+        tools:ignore="ContentDescription" />
+
+    <ImageView
+        android:id="@+id/more"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="10dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@android:drawable/ic_menu_more" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        app:cardBackgroundColor="#27FFFFFF"
+        app:cardCornerRadius="100dp"
+        app:cardElevation="4dp"
+        app:layout_constraintBottom_toBottomOf="@+id/profileBackImageView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.05"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/profileBackImageView"
+        app:layout_constraintVertical_bias="0.50">
+
+        <ImageView
+            android:id="@+id/profileImageView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:scaleType="centerCrop"
+            app:srcCompat="@drawable/ic_profile"
+            tools:ignore="ContentDescription" />
+    </androidx.cardview.widget.CardView>
+
+    <TextView
+        android:id="@+id/userId"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:shadowColor="#C6000000"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="6"
+        android:text="@string/userIDTxt"
+        android:textColor="#D8D8D8"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="@+id/profileBackImageView"
+        app:layout_constraintStart_toStartOf="@+id/userName" />
+
+    <TextView
+        android:id="@+id/userName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:shadowColor="#CD000000"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="8"
+        android:text="User Name"
+        android:textColor="#E1E1E1"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/userId"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.2"
+        app:layout_constraintStart_toEndOf="@+id/cardView"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/viewsLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Views"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="@+id/cardView"
+        app:layout_constraintEnd_toStartOf="@+id/likeLabelTextView"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/cardView"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/likeLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Likes"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="@+id/viewsLabelTextView"
+        app:layout_constraintEnd_toStartOf="@+id/followsLabelTextView"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/viewsLabelTextView"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/followsLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Followers"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="@+id/viewsLabelTextView"
+        app:layout_constraintEnd_toStartOf="@+id/followingLabelTextView"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/likeLabelTextView"
+        tools:ignore="HardcodedText" />
+
+    <View
+        android:id="@+id/view2"
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="#41FFFFFF"
+        app:layout_constraintBottom_toBottomOf="@+id/viewsLabelTextView"
+        app:layout_constraintEnd_toStartOf="@+id/likeLabelTextView"
+        app:layout_constraintStart_toEndOf="@+id/viewsLabelTextView"
+        app:layout_constraintTop_toTopOf="@+id/views" />
+
+    <View
+        android:id="@+id/view"
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="#41FFFFFF"
+        app:layout_constraintBottom_toBottomOf="@+id/viewsLabelTextView"
+        app:layout_constraintEnd_toStartOf="@+id/followsLabelTextView"
+        app:layout_constraintStart_toEndOf="@+id/likeLabelTextView"
+        app:layout_constraintTop_toTopOf="@+id/views" />
+
+    <View
+        android:id="@+id/view3"
+        android:layout_width="1dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="#41FFFFFF"
+        app:layout_constraintBottom_toBottomOf="@+id/viewsLabelTextView"
+        app:layout_constraintEnd_toStartOf="@+id/followingLabelTextView"
+        app:layout_constraintStart_toEndOf="@+id/followsLabelTextView"
+        app:layout_constraintTop_toTopOf="@+id/views" />
+
+    <TextView
+        android:id="@+id/followingLabelTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Following"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="@+id/viewsLabelTextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/followsLabelTextView"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/following"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/followingLabelTextView"
+        app:layout_constraintEnd_toEndOf="@+id/followingLabelTextView"
+        app:layout_constraintStart_toStartOf="@+id/followingLabelTextView"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/views"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/viewsLabelTextView"
+        app:layout_constraintEnd_toEndOf="@+id/viewsLabelTextView"
+        app:layout_constraintStart_toStartOf="@+id/viewsLabelTextView"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/likes"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/likeLabelTextView"
+        app:layout_constraintEnd_toEndOf="@+id/likeLabelTextView"
+        app:layout_constraintStart_toStartOf="@+id/likeLabelTextView"
+        tools:ignore="HardcodedText" />
+
+    <TextView
+        android:id="@+id/follows"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/followsLabelTextView"
+        app:layout_constraintEnd_toEndOf="@+id/followsLabelTextView"
+        app:layout_constraintStart_toStartOf="@+id/followsLabelTextView"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/followButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:text="Follow"
+        app:layout_constraintStart_toEndOf="@+id/cardView"
+        app:layout_constraintTop_toBottomOf="@+id/cardView"
+        tools:ignore="HardcodedText" />
+
+    <LinearLayout
+        android:id="@+id/tabContainer"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/followButton">
+
+        <com.google.android.material.tabs.TabLayout
+            android:id="@+id/tabLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+        </androidx.viewpager2.widget.ViewPager2>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

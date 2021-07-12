@@ -1,0 +1,22 @@
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\obj\x86\Debug\Screen Cast.csprojResolveAssemblyReference.cache
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\bin\Debug\Screen Cast.exe
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\bin\Debug\Screen Cast.pdb
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\obj\x86\Debug\Screen Cast.exe
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\obj\x86\Debug\Screen Cast.pdb
+C:\Users\ROHITH\Documents\Projects\Waste\Screen Cast\bin\Debug\Screen Cast.exe
+C:\Users\ROHITH\Documents\Projects\Waste\Screen Cast\bin\Debug\Screen Cast.pdb
+C:\Users\ROHITH\Documents\Projects\Waste\Screen Cast\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\ROHITH\Documents\Projects\Waste\Screen Cast\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\ROHITH\Documents\Projects\Waste\Screen Cast\obj\x86\Debug\Screen Cast.csprojResolveAssemblyReference.cache
+C:\Users\ROHITH\Documents\Projects\Waste\Screen Cast\obj\x86\Debug\Screen Cast.exe
+C:\Users\ROHITH\Documents\Projects\Waste\Screen Cast\obj\x86\Debug\Screen Cast.pdb
+C:\Users\ROHITH\Documents\Projects\Screen Cast\Screen Cast\bin\Debug\Screen Cast.exe
+C:\Users\ROHITH\Documents\Projects\Screen Cast\Screen Cast\bin\Debug\Screen Cast.pdb
+C:\Users\ROHITH\Documents\Projects\Screen Cast\Screen Cast\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\ROHITH\Documents\Projects\Screen Cast\Screen Cast\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\ROHITH\Documents\Projects\Screen Cast\Screen Cast\obj\x86\Debug\Screen Cast.csprojResolveAssemblyReference.cache
+C:\Users\ROHITH\Documents\Projects\Screen Cast\Screen Cast\obj\x86\Debug\Screen Cast.exe
+C:\Users\ROHITH\Documents\Projects\Screen Cast\Screen Cast\obj\x86\Debug\Screen Cast.pdb
+C:\Users\ROHITH\Documents\Projects\Screen Cast\Screen Cast\bin\Debug\Screen Cast.exe.config

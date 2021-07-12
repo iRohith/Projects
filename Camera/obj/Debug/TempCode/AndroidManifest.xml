@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.rohith.apps.Camera" android:versionCode="0" android:versionName="0.0.0.0">
+  <uses-sdk android:minSdkVersion="17" android:targetSdkVersion="17" />
+  <application android:label="Bluetooth Live Camera" android:icon="@drawable/icon" android:debuggable="true">
+    <activity android:name="simpleCamera.MainActivity" android:screenOrientation="landscape">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+  </application>
+  <uses-feature android:name="android.bluetooth" />
+  <uses-feature android:name="android.hardware.camera" />
+  <uses-permission android:name="android.permission.CAMERA" />
+  <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+</manifest>

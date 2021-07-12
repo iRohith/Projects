@@ -1,0 +1,7 @@
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\bin\Debug\Waste.exe
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\bin\Debug\Waste.pdb
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\bin\Debug\InTheHand.Net.Personal.dll
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\bin\Debug\InTheHand.Net.Personal.xml
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\obj\x86\Debug\Waste.csprojResolveAssemblyReference.cache
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\obj\x86\Debug\Waste.exe
+C:\Users\ROHITH\Documents\Projects\Waste\Waste\obj\x86\Debug\Waste.pdb

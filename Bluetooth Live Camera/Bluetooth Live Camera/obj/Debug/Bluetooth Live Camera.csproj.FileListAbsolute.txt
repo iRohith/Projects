@@ -1,0 +1,13 @@
+c:\users\apple\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\bin\Debug\Bluetooth Live Camera.exe.config
+c:\users\apple\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\bin\Debug\Bluetooth Live Camera.exe
+c:\users\apple\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\bin\Debug\Bluetooth Live Camera.pdb
+c:\users\apple\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\obj\Debug\Bluetooth Live Camera.csprojResolveAssemblyReference.cache
+c:\users\apple\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\obj\Debug\Bluetooth_Live_Camera.Properties.Resources.resources
+c:\users\apple\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\obj\Debug\Bluetooth Live Camera.csproj.GenerateResource.Cache
+c:\users\apple\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\obj\Debug\Bluetooth Live Camera.exe
+c:\users\apple\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\obj\Debug\Bluetooth Live Camera.pdb
+C:\Users\APPLE\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\obj\Debug\Bluetooth_Live_Camera.Form1.resources
+C:\Users\APPLE\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\bin\Debug\Bluetooth Live Camera.exe.manifest
+C:\Users\APPLE\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\bin\Debug\Bluetooth Live Camera.application
+C:\Users\APPLE\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\obj\Debug\Bluetooth Live Camera.exe.manifest
+C:\Users\APPLE\documents\visual studio 2012\Projects\Bluetooth Live Camera\Bluetooth Live Camera\obj\Debug\Bluetooth Live Camera.application

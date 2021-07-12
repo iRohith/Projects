@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    tools:context=".activities.UploadActivity">
+
+    <Switch
+        android:id="@+id/shares"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="#345F5F5F"
+        android:checked="false"
+        android:showText="true"
+        android:text="Shares"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="@+id/caption"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="@+id/caption"
+        app:layout_constraintTop_toBottomOf="@+id/comment" />
+
+    <EditText
+        android:id="@+id/caption"
+        android:layout_width="346dp"
+        android:layout_height="62dp"
+        android:layout_marginTop="10dp"
+        android:capitalize="sentences"
+        android:cursorVisible="true"
+        android:editable="true"
+        android:ems="10"
+        android:gravity="start"
+        android:hint="Enter caption here"
+        android:inputType="textAutoCorrect|textWebEditText|textMultiLine|text|textAutoComplete"
+        android:singleLine="false"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#80C3C3C3"
+        app:layout_constraintStart_toStartOf="@+id/captionLabel"
+        app:layout_constraintTop_toBottomOf="@+id/captionLabel" />
+
+    <TextView
+        android:id="@+id/captionLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp"
+        android:text="Caption :"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="@+id/titleLabel"
+        app:layout_constraintTop_toBottomOf="@+id/titleLabel" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="185dp"
+        android:layout_height="314dp"
+        android:layout_marginTop="32dp"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_blank_background" />
+
+    <TextView
+        android:id="@+id/titleLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="40dp"
+        android:text="Title :"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
+
+    <EditText
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:capitalize="sentences"
+        android:cursorVisible="true"
+        android:editable="true"
+        android:ems="10"
+        android:hint="Enter title here"
+        android:inputType="textAutoCorrect|textWebEditText|text|textAutoComplete"
+        android:singleLine="true"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#80C3C3C3"
+        app:layout_constraintBottom_toBottomOf="@+id/titleLabel"
+        app:layout_constraintStart_toEndOf="@+id/titleLabel"
+        app:layout_constraintTop_toTopOf="@+id/titleLabel" />
+
+    <Switch
+        android:id="@+id/comment"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:background="#345F5F5F"
+        android:checked="false"
+        android:showText="true"
+        android:text="Comments"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="@+id/caption"
+        app:layout_constraintStart_toStartOf="@+id/caption"
+        app:layout_constraintTop_toBottomOf="@+id/caption" />
+
+    <Button
+        android:id="@+id/upload"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/shares" />
+</androidx.constraintlayout.widget.ConstraintLayout>

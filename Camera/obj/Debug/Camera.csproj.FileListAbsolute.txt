@@ -1,0 +1,9 @@
+C:\Users\RAINBOW\Documents\dot42\Android\Samples\Hardware\Camera\Bin\Debug\Camera.apk
+C:\Users\RAINBOW\Documents\dot42\Android\Samples\Hardware\Camera\Bin\Debug\Camera.d42map
+C:\Users\RAINBOW\Documents\dot42\Android\Samples\Hardware\Camera\obj\Debug\Camera.dll
+C:\Users\RAINBOW\Documents\dot42\Android\Samples\Hardware\Camera\obj\Debug\Camera.pdb
+C:\Users\RAINBOW\Documents\SharpDevelop Projects\Camera\Bin\Debug\Camera.apk
+C:\Users\RAINBOW\Documents\SharpDevelop Projects\Camera\Bin\Debug\Camera.d42map
+C:\Users\RAINBOW\Documents\SharpDevelop Projects\Camera\obj\Debug\Camera.csprojResolveAssemblyReference.cache
+C:\Users\RAINBOW\Documents\SharpDevelop Projects\Camera\obj\Debug\Camera.dll
+C:\Users\RAINBOW\Documents\SharpDevelop Projects\Camera\obj\Debug\Camera.pdb

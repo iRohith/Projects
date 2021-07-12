@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluetooth Camera", "Bluetooth Camera\Bluetooth Camera.csproj", "{AC14BB59-0DAC-4FA2-B2CA-1C17E610E967}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC14BB59-0DAC-4FA2-B2CA-1C17E610E967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC14BB59-0DAC-4FA2-B2CA-1C17E610E967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC14BB59-0DAC-4FA2-B2CA-1C17E610E967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC14BB59-0DAC-4FA2-B2CA-1C17E610E967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
